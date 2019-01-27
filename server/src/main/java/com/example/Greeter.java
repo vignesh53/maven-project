@@ -1,5 +1,6 @@
 package com.example;
 
+/* Added a random useless comment */
 /**
  * This is a class.
  */
