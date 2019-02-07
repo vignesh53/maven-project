@@ -3,7 +3,7 @@ pipeline {
    stages{
    stage('Build'){
     steps{
-     sh 'mvn clean package'
+     sh '/Users/vigneshd/Documents/apache-maven-3.6.0/bin/mvn clean package'
     }
    }
    }
